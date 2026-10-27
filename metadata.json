@@ -1,0 +1,6 @@
+{
+  "name": "VaishHari Kitchens | Homemade Pindi Vantalu, Biryani & Pickles",
+  "description": "Authentic homemade Indian delicacies from VaishHari Kitchens. Freshly prepared Pindi Vantalu, Hyderabadi-style Biryani, and traditional Pickles with WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
